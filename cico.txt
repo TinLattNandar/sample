@@ -1,0 +1,44 @@
+﻿Q: What are the different clock in/out methods I can choose from? 
+
+
+  A: We have 3 different methods, Geofenced + QR (optional), GPS + Photo (optional) and WiFi. You can refer to this article for more information.
+  
+    
+  Q: How do I clock in for my shift?
+  
+  A: On the mobile app, go to the Daily tab, you will see your assigned shift. Make sure GPS is turned on and all permissions are allowed to StaffAny app then click on Check In to clock in. For more information, you can refer here.
+  
+    
+  Q: How do I clock in if I not see any shifts assigned to me?
+  
+  A: You can click on the "Send Unscheduled Shift Request as shown on Daily tab to first clock in if your Manager has not assigned you the shift. Just take note that Managers will have to approve the shift in order for it to be considered as a assigned shift. Read here to find out more.
+  
+    
+  Q: Staff is having issues clocking in, what should I do? 
+  
+  A: First, ensure your GPS Location service is turned on, then check that you have given all permissions to our app then try again. You can also refer to this CICO troubleshooting article for more details.
+  
+    
+  Q: Do staff need to turn on my GPS for the whole day?
+  
+  A: You only need to do so when you clock in and out for your shift. If you need to clock in and out for breaks, you will also need to turn it on while doing so.
+  
+    
+  Q: The app is taking a long time to load, what should I do?
+  
+  A: StaffAny app requires an internet connection to function, do check if your network is working. If you're on Wi-Fi, try using your mobile data to load or vice versa.
+  
+    
+  Q: How do I know if staff has already clocked in for their shift for the day? 
+  
+  A: On the mobile app, go to the Store tab, you will be able to see if your staff has clocked in for the shift for the day.
+  
+    
+  Q: Does StaffAny do live tracking of each staff location?
+  
+  No, we simply check on the location of the staff when they are clocking in and out to ensure they are within the location they are required to work. The only time we store any location information in our app is if the timeclock method is set as GPS. This record is meant for a check for Managers or Owners to ensure their staff did clock in and out at the respective work place. 
+  
+    
+  Q: What does the Send Unscheduled Shift Request on Daily tab do? 
+  
+  A: This is used by staff for last minute use cases where the Manager has no time to assign a shift to the staff but requires the staff to report and clock in for their work first. The difference is that the Manager or Owner will have to approve this shift so that it will be added into the Schedule as confirmation that they did ask the staff to do so. You can refer to the flow here.
