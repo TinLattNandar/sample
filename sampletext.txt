@@ -1,0 +1,69 @@
+Weekly Overtime and Undertime Schedule Indicator
+
+Go to StaffAny web app > Schedule, hover over the hour’s capsule, and a tooltip will appear, showing the breakdown of the staff’s working hours. The hour’s capsule will be in various colors depending on whether you have overscheduled, under scheduled or scheduled exactly to the hours the staff was supposed to work.
+
+ 
+
+1. Capsule in red:
+
+The hour’s capsule will be in red if the staff has accumulated weekly overtime hours, which exceeds the weekly OT limit. The OT limit difference will be a positive number, indicating the number of extra hours the staff is being scheduled.
+
+
+2. Capsule in Navy:
+
+If staff schedules with hours lesser than their supposed work hours (OT limit), the indication would be in navy color. The difference to the OT limit will be a negative value to indicate your staff is under scheduled.
+
+
+3. Capsule in green:
+
+If staff schedules with hours matching their supposed work hours (OT limit), the indication would turn green.
+
+
+When the number of scheduled hours exceeds both daily and weekly OT limit, the hour’s capsule will only indicate the weekly overtime hours.
+ 
+
+ 
+
+Daily OT limit indicator
+The daily OT limit indicator is similar to the weekly OT limit indicator. 
+
+ 
+
+However, there are some differences between the weekly and daily OT limit indicator:
+
+Weekly OT limit indicator
+
+Daily OT limit indicator
+
+Calculate the total number of hours scheduled starting from Mon to Sun and match against the OT limit 
+
+Calculate the total number of hours scheduled for the day and match against the daily OT limit
+
+ 
+The OT limit indicator will be red when you scheduled your staff over the daily OT limit.
+
+
+The OT limit indicator will be navy when you scheduled your staff under the daily OT limit.
+
+
+The OT limit indicator will be green when the number of hours you scheduled your staff matches the daily OT limit precisely.
+
+
+ 
+
+Publish prompter
+
+To help you optimise your OT hours when scheduling, you will get an alert when trying to publish shifts if the staff’s OT hours are under/exceed the OT limits. If it your schedule is accurate, press the “Publish Anyway” button to publish the schedule for your staff to see. 
+
+ 
+
+1. There are full-time staff exceeding their OT limits
+
+2. There are full-time staff under their OT limits
+
+3. Have full-time staff both exceeded and are under their OT limits
+
+ 
+
+
+
